@@ -10,7 +10,7 @@ import argparse
 import copy
 
 """
-Author: Kamela Ng <date>
+Author: Kamela Ng <11 May 2018>
 
 This script converts whole genome sequence data in the form of tab files into the most liekly output that would be observed from a GenoscholarNTM+MDRTBII  (hereinafter called Nipro) run on this sample
 
